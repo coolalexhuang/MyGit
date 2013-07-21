@@ -1,4 +1,0 @@
-MyGit
-=====
-
-My Github Projects
